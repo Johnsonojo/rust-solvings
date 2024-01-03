@@ -1,1 +1,3 @@
-# My Learnings of the Rust Programming Language
+# Rust Programming Language Learnings
+
+## 1. Functions
