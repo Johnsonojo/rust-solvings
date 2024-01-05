@@ -4,4 +4,6 @@
 
 ## 2. Basic Arithmetic
 
-## 3. Flow Control (if..else)
+## 3. Flow Control 1 (if..else)
+
+## 4. Flow Control 2 (if..else if..else)
