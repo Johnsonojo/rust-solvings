@@ -8,4 +8,6 @@
 
 ### 4. Flow Control 2 (if..else if..else)
 
-### 5. Decision making with match
+### 5. Decision making with match 1
+
+### 6. Decision making with match 2
