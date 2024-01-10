@@ -13,3 +13,5 @@
 ### 6. Decision making with match 2
 
 ### 7. Looping
+
+### 8. Looping (while loop)
