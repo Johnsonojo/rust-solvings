@@ -15,3 +15,5 @@
 ### 7. Looping
 
 ### 8. Looping (while loop)
+
+### 9. Enums
