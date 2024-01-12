@@ -17,3 +17,5 @@
 ### 8. Looping (while loop)
 
 ### 9. Enums
+
+### 10. Struct
