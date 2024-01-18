@@ -29,3 +29,5 @@
 ### 14. Impl and Methods
 
 ### 15. Vectors
+
+### 16. Strings
